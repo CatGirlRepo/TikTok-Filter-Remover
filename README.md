@@ -2,7 +2,7 @@
 Remove The TikTok Filters
 
 Dependencies:
-Latest Version Of Python:
+Latest Version Of Python (WITH PIP):
 https://www.python.org/
 
 Steps:
